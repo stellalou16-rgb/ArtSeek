@@ -1,0 +1,13 @@
+art-seek/
+├── package.json
+├── vercel.json           ← new file for React routing fix
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+│   └── icon.svg
+└── src/
+    ├── main.jsx
+    ├── App.jsx
+    └── components/
+        ├── InstallPrompt.jsx
+        └── HomeScreen.jsx
